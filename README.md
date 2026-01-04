@@ -1,4 +1,4 @@
-# 🧾 IT Support Queue Case Study – Multi-Level Troubleshooting
+# 🧾 IT Support Queue Case Study - Multi-Level Troubleshooting
 **CMIT 265 | Fundamentals of Networking**
 
  📄 **Full Lab Report:**  
